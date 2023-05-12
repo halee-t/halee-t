@@ -10,8 +10,6 @@
 
 3. I love to learn from others! There are tons of ways to solve the same problem, so if you know a better way then please speak up.
 
-4. I don't know many methods to test code other than print statements, so let me know of other ways!
-
 
 ### Languages/Tools
 -Java
