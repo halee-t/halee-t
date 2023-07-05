@@ -13,6 +13,8 @@
 
 ### Languages/Tools
 -Java
+-HTML
+-CSS
 -C#
 -C
 
