@@ -1,6 +1,6 @@
 # Halee Tisler
 
->Halee is an intern on the Software Development Team at 365 Retail Markets, which is headquarted in Troy.
+>Halee is a student at Oakland University pursuing a Bachelor's Degree in Computer Science
 
 ### Things to know when Pair Programming with me:
 
