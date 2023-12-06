@@ -13,14 +13,12 @@
 
 ### Languages/Tools
 -Java
+-Python
 -HTML
 -CSS
 -C#
 -C
 
-
-### Interesting Fact
-I am double jointed in my elbows.
 
 ### Get to know me better:
 [Resume](https://github.com/halee-t/halee-t/blob/82fd6414fc603b05230a31f320c194d1c3127b91/HaleeTislerResume%20-%20Google%20Docs.pdf) || [LinkedIn](https://www.linkedin.com/in/halee-tisler-371a70266/)
