@@ -12,12 +12,12 @@
 
 
 ### Languages/Tools
--Java
--Python
--HTML
--CSS
--C#
--C
+- TypeScript
+- Java
+- Python
+- React
+- HTML
+- CSS
 
 
 ### Get to know me better:
